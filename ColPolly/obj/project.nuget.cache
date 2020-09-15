@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "atUgQOyizfMNnPKTtG3DX1siBH7r2Sda0ya9aRFprovCOX2I5Gj3LwRL1dQcL81lQf3Y1NBux8wGQ7aOo24iNA==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\ColPolly\\ColPolly\\ColPolly.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xcs\\.nuget\\packages\\polly\\7.2.1\\polly.7.2.1.nupkg.sha512",
+    "C:\\Users\\xcs\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

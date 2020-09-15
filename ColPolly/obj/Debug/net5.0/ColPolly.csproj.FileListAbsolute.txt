@@ -1,0 +1,15 @@
+D:\Code\ColPolly\ColPolly\bin\Debug\net5.0\ColPolly.exe
+D:\Code\ColPolly\ColPolly\bin\Debug\net5.0\ColPolly.deps.json
+D:\Code\ColPolly\ColPolly\bin\Debug\net5.0\ColPolly.runtimeconfig.json
+D:\Code\ColPolly\ColPolly\bin\Debug\net5.0\ColPolly.runtimeconfig.dev.json
+D:\Code\ColPolly\ColPolly\bin\Debug\net5.0\ColPolly.dll
+D:\Code\ColPolly\ColPolly\bin\Debug\net5.0\ColPolly.pdb
+D:\Code\ColPolly\ColPolly\bin\Debug\net5.0\Polly.dll
+D:\Code\ColPolly\ColPolly\obj\Debug\net5.0\ColPolly.csprojAssemblyReference.cache
+D:\Code\ColPolly\ColPolly\obj\Debug\net5.0\ColPolly.AssemblyInfoInputs.cache
+D:\Code\ColPolly\ColPolly\obj\Debug\net5.0\ColPolly.AssemblyInfo.cs
+D:\Code\ColPolly\ColPolly\obj\Debug\net5.0\ColPolly.csproj.CoreCompileInputs.cache
+D:\Code\ColPolly\ColPolly\obj\Debug\net5.0\ColPolly.csproj.CopyComplete
+D:\Code\ColPolly\ColPolly\obj\Debug\net5.0\ColPolly.dll
+D:\Code\ColPolly\ColPolly\obj\Debug\net5.0\ColPolly.pdb
+D:\Code\ColPolly\ColPolly\obj\Debug\net5.0\ColPolly.genruntimeconfig.cache
